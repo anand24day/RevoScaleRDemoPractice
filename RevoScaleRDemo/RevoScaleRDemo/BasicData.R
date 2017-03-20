@@ -1,5 +1,5 @@
 # string Connection
-connStr <- 'Driver={SQL Server};Server=192.168.142.185;Database=RProject;Uid=sa;Pwd=ANAND2day'
+connStr <- 'Driver={SQL Server};Server=XXX.xxx.xxx.xxx;Database=RProject;Uid=sa;Pwd=XXXXXXX'
 
 # Query for data 
 
